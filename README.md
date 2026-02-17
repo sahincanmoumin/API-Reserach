@@ -45,8 +45,23 @@ Evet, WinForm uygulamaları genellikle kullanıcı ile sunucu arasında veri al�
 
 ## Swagger Nedir ve Nasıl Kullanılır?
 
-- **Swagger:** API’leri dokümante etmek, test etmek ve görselleştirmek için kullanılan bir araçtır.  
-- **Kullanımı:** Swagger arayüzü üzerinden API endpoint’lerini görebilir, GET, POST, PUT, DELETE gibi istekleri test edebilir ve dönen veriyi inceleyebilirsiniz.  
+- **Swagger:** API’leri dokümante etmek, test etmek ve görselleştirmek için kullanılan bir araçtır. API'nin doğru çalışıp çalışmadığını görmemizi sağlayan araç. 
+- **Kullanımı:** Swagger arayüzü üzerinden API endpoint’lerini görebilir, GET, POST, PUT, DELETE gibi istekleri test edebilir ve dönen veriyi inceleyebilirsiniz.
+
+## Postman Nedir ve Nasıl Kullanılır?
+
+- **Postman:** API’leri test etmek ve HTTP istekleri göndermek için kullanılan bir araçtır.  
+- **Kullanımı:** İstek yapılacak URL girilir, GET, POST, PUT, DELETE gibi metot seçilir ve gönderilir. Sunucudan gelen response (cevap) ekranda görüntülenir.  
+
+Postman sayesinde API’lerin doğru çalışıp çalışmadığı kolayca test edilebilir.
+
+---
+
+## Bir API Nerede Çalışır?
+
+API’ler genellikle bir sunucu (server) üzerinde çalışır. Bu sunucu bir fiziksel bilgisayar, sanal makine veya bulut ortamı olabilir.  
+
+---
 
 
 
